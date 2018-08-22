@@ -1,0 +1,35 @@
+.hide {
+    display: none;
+  }
+
+  body {
+      background-color: lightgray;
+    
+  }
+
+  .container {
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .choice {
+    height: 170px;
+    width: 170px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+
+  .selected {
+    height: 150px;
+    width: 150px;
+    border-radius: 50px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  h2 {
+    text-align: center;
+  }
